@@ -1,4 +1,4 @@
-<img align="leaft" alt="Gif" height="400" width="1090" style="border-radius:100px;"  src="https://i.pinimg.com/originals/53/7d/45/537d45f00a1738c62ab2c05c225a0051.gif">
+<img align="leaft" alt="Gif" height="400" width="1120" style="border-radius:100px;"  src="https://i.pinimg.com/originals/53/7d/45/537d45f00a1738c62ab2c05c225a0051.gif">
 
 Hi 👋 My name is Vini Henques | Back-End Developer
 ------------------
