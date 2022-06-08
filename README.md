@@ -1,4 +1,5 @@
 <img align="leaft" alt="Gif" height="400" width="1120" style="border-radius:100px;"  src="https://i.pinimg.com/originals/20/54/97/205497ee52942b78ef8b2b46e65ae78c.gif">
+[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=inishiusui&cover_image=true&theme=default&bar_color=c0308b&bar_color_cover=true)]]
 
 Hi 👋 My name is Vini Henques | Back-End Developer
 ------------------
