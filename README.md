@@ -1,6 +1,6 @@
 <img align="leaft" alt="Gif" height="300" width="1120" style="border-radius:100px;"  src="https://i.pinimg.com/originals/78/f4/89/78f489f9d33e926ba0c130a15532f8a1.gif">
 
-Hi 👋 My name is Vini Henques | Back-End Developer
+< Hi 👋 My name is Vini Henques | Back-End Developer />
 ------------------
 
 Studying Analysis and systems development at Etec Horácio Augusto da Silveira, together with the 100% Full stack Developer course at Fullture School, Agile certificate at Mackenzie University with Scrum, always seeking broad knowledge in languages ​​and methodologies!
