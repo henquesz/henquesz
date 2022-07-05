@@ -1,6 +1,5 @@
 <img align="leaft" alt="Gif" height="400" width="1120" style="border-radius:50%;"  src="https://i.pinimg.com/originals/45/af/d8/45afd8f35d623103392c85901a53f5ea.gif">
 
-<img align="center" alt="Gif" height="200" width="200" style="border-radius:50%;"  src="https://media3.giphy.com/media/hSvSPMknCv0Bx6WFsu/giphy.gif?cid=790b76115fa75758e4c313795094131bf547363f6c4e7359&rid=giphy.gif&ct=s">
 <h2 align="center">< Hi 👋 My name is Vini Henques | Back-End Developer /></h2>
 
 Studying Analysis and systems development at Etec Horácio Augusto da Silveira, together with the 100% Full stack Developer course at Fullture School, Agile certificate at Mackenzie University with Scrum, always seeking broad knowledge in languages ​​and methodologies!
