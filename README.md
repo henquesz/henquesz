@@ -3,7 +3,7 @@
 Studying Analysis and systems development at Etec Horácio Augusto da Silveira, together with the 100% Full stack Developer course at Fullture School, Agile certificate at Mackenzie University with Scrum, always seeking broad knowledge in languages ​​and methodologies!
 
 * 🌍  I'm based in Brazil
-* 🖥️  See my portfolio at [LinkedIn](https://www.linkedin.com/in/vinicius-henques-5a843a1b9/)
+* 🖥️  See my portfolio at [Vercel app deploy](https://viniciushenquesportfolio.vercel.app)
 * 🚀  I'm currently working on [Gennex Software](https://www.linkedin.com/company/gennexsoftware/)
 * 🤝  I'm open to collaborating on Kotlin and Xamarin Android projects
 
