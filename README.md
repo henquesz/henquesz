@@ -1,4 +1,4 @@
-<h2 align="center">< Hi 👋 My name is Vini Henques | Fullstack Enginner /></h2>
+<h2 align="center">< Hi 👋 My name is Vini Henques | Full stack Engineer /></h2>
 
 Studying Analysis and systems development at Etec Horácio Augusto da Silveira, together with the 100% Full stack Developer course at Fullture School, Agile certificate at Mackenzie University with Scrum, always seeking broad knowledge in languages ​​and methodologies!
 
