@@ -42,8 +42,5 @@ Studying Analysis and systems development at Etec Horácio Augusto da Silveira, 
 <a href="http://www.github.com/henquesz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=henquesz&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/henquesz"><img src="https://activity-graph.herokuapp.com/graph?username=henquesz&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/henquesz/CPUMonitoring" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=henquesz&repo=CPUMonitoring&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/henquesz/CPFGenerator" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=henquesz&repo=CPFGenerator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<br /><br />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=henquesz&label=Profile%20views&color=0e75b6&style=flat" alt="henquesz" /> </p>
