@@ -4,7 +4,7 @@ Studying Analysis and systems development at Etec Horácio Augusto da Silveira, 
 
 * 🌍  I'm based in Brazil
 * 🖥️  See my portfolio at [Vercel app deploy](https://viniciushenquesportfolio.vercel.app)
-* 🚀  I'm currently working on [Mobi Logistica](https://www.linkedin.com/company/mobilogistica/)
+* 🚀  looking for a new job (https://www.linkedin.com/in/vinicius-henques-5a843a1b9/)
 * 🤝  I'm open to collaborating on Flutter, NodeJS and React Native projects
 
 ### Skills
