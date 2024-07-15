@@ -9,7 +9,7 @@
  🖥️  See my portfolio (https://viniciushenquesportfolio.vercel.app)
 </p>
 <p align="center">
- 🚀  looking for a new job (https://www.linkedin.com/in/vinicius-henques-5a843a1b9/)
+ 🚀  looking for a collaborating Open-Source projects (https://www.linkedin.com/in/vinicius-henques-5a843a1b9/)
 </p>
 <p align="center">
  🤝  I'm open to collaborating on NodeJS and React Native projects
@@ -40,7 +40,7 @@ Skills
 <h2 align="center">
 Socials
 </h2>
-<p align="center"> <a href="https://www.github.com/henquesz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/henquesz.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/vinicius-henques-5a843a1b9/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="center"> <a href="https://www.github.com/henquesz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/hxnquesz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/vinicius-henques-5a843a1b9/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 <h2 align="center">
 Badges
 </h2>
