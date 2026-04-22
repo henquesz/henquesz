@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/vinicius-henques-5a843a1b9/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/hxnquesz">
+  <a href="https://www.instagram.com/vinihenques">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://github.com/henquesz">
@@ -25,7 +25,8 @@ education:
   - Systems Analysis and Development @ Etec Horácio Augusto da Silveira
   - 100% Full Stack Developer @ Fullture School
   - Agile / Scrum Certificate @ Mackenzie University
-currently: Building things with Node.js, React and React Native
+  - Systems Analysis and Development @ Paulista University
+currently: Building things with Node.js, C#,  React and React Native
 open_to: Open-source collaboration and freelance projects
 ```
 
