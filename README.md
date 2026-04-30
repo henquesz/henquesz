@@ -92,10 +92,6 @@ open_to: Open-source collaboration and freelance projects
   <img src="https://streak-stats.demolab.com?user=henquesz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=henquesz&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
-</p>
-
 ---
 
 <p align="center">
