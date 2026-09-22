@@ -15,7 +15,12 @@
 
 ---
 
-### 💻 About me
+<h3 align="center">💻 About me</h3>
+
+<div align="center">
+<table>
+<tr>
+<td>
 
 ```yaml
 name: Vinicius Henques
@@ -26,21 +31,28 @@ education:
   - 100% Full Stack Developer @ Fullture School
   - Agile / Scrum Certificate @ Mackenzie University
   - Systems Analysis and Development @ Paulista University
-currently: Building things with Node.js, C#,  React and React Native
+currently: Building things with Node.js, C#, React and React Native
 open_to: Open-source collaboration and freelance projects
 ```
 
-- 🔭 Always exploring new languages, frameworks and methodologies
-- 🤝 Open to collaborating on **Node.js** and **React Native** projects
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/vinicius-henques-5a843a1b9/)
+</td>
+</tr>
+</table>
+</div>
+
+<p align="center">
+  🔭 Always exploring new languages, frameworks and methodologies<br />
+  🤝 Open to collaborating on <b>Node.js</b> and <b>React Native</b> projects<br />
+  📫 Reach me on <a href="https://www.linkedin.com/in/vinicius-henques-5a843a1b9/">LinkedIn</a>
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+<h3 align="center">🛠️ Tech Stack</h3>
 
-**Languages**
+<p align="center"><b>Languages</b></p>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -49,9 +61,9 @@ open_to: Open-source collaboration and freelance projects
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-**Frontend**
+<p align="center"><b>Frontend</b></p>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -59,9 +71,9 @@ open_to: Open-source collaboration and freelance projects
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
-**Backend & Database**
+<p align="center"><b>Backend & Database</b></p>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -69,9 +81,9 @@ open_to: Open-source collaboration and freelance projects
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-**Tools & Design**
+<p align="center"><b>Tools & Design</b></p>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -81,7 +93,7 @@ open_to: Open-source collaboration and freelance projects
 
 ---
 
-### 📊 GitHub Stats
+<h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=henquesz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
